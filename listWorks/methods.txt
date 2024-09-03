@@ -1,0 +1,9 @@
+number=[1,23,4]
+
+number.append(5)
+number.insert(1,7)
+number.pop(5)
+number.count(1)   duplicates
+number.remove()
+number.extend()
+number.reverse()

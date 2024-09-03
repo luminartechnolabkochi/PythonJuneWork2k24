@@ -1,0 +1,19 @@
+
+
+collection  defnine duplicatesAllowe insertionOrderpreserved    mutable     methods
+                        or Not
+
+
+list         [],list()     yes              yes                   yes          
+
+
+tuple        (),tuple()    yes              yes                   no
+
+
+set          set()          no               no                    yes  
+
+dict          {}           duplicate                                             
+                                key
+                                not allowed
+
+

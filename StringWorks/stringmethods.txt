@@ -1,0 +1,59 @@
+buitins.py
+============
+
+def print("msg",end="\n")
+
+input()
+
+def sorted(iterable,reverse=False)
+
+
+
+
+
+class str:
+
+    def capitalize():
+
+    def upper():
+
+    def lower():
+
+    def casefold():
+
+    def index(character)
+
+    def isalpha()
+
+    def isdigit()
+
+    def isalnum()
+
+    def count(char)
+
+    def split()
+
+    def startswith(character)
+    
+    def endswith()
+
+    def replace("str","relacecharacter"):
+
+    def strip("char")
+
+    def lstrip("char")
+
+    def rstrip("char")
+
+    
+
+
+
+
+
+
+
+
+obj_name=className()
+
+obj=str()

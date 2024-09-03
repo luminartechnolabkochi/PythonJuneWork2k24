@@ -1,0 +1,7 @@
+q1)second largest
+
+q2)sort three numbers
+
+q3)Bmi
+
+
