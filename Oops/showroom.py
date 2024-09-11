@@ -58,7 +58,3 @@ showroom_instance2.add_vehicle(dominar_instance)
 showroom_instance2.list_vehicles()
 
 
-# dishes(name,price,qty)
-
-# Restaurent
-
